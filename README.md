@@ -53,17 +53,20 @@ npm run build
 
 ### 1. Form 1 — Admin Form Builder
 
-![Form Builder](./screenshots/form-1.png)
+<img src="./screenshots/form-1.png" alt="Form Builder" width="100%" />
+
 _Drag-and-drop interface for creating powerful forms with 15+ field types, conditional logic (show/hide fields based on other inputs), and comprehensive validation rules._
 
 ### 2. Form 2 — User Form with Multiple Input Types
 
-![User Form](./screenshots/form-2.png)
+<img src="./screenshots/form-2.png" alt="User Form" width="100%" />
+
 _Responsive form renderer with diverse input fields including text, email, phone, number, textarea, radio buttons, select dropdowns, checkboxes, date/time pickers, file upload, and data grids (tables with dynamic rows for bulk data entry)._
 
 ### 3. Form 3 — Rich Submissions with Signature & Advanced Fields
 
-![Response Viewer](./screenshots/form-3.png)
+<img src="./screenshots/form-3.png" alt="Response Viewer" width="100%" />
+
 _View and manage form submissions with support for signature pads, data grids, panels, tabs, file uploads, and all rich field types with human-readable labels and formatted values._
 
 ## 🔧 Architecture
@@ -132,7 +135,7 @@ src/
 ├── main.jsx                  # React entry point
 └── styles.css                # Application styles
 
-screenshots/                  # Add your screenshots here
+screenshots/
 ├── form-1.png
 ├── form-2.png
 └── form-3.png
